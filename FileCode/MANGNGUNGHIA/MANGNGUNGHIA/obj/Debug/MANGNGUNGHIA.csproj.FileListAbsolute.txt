@@ -1,0 +1,20 @@
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.exe.config
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.exe
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.pdb
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csprojAssemblyReference.cache
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.Form1.resources
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.Properties.Resources.resources
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csproj.GenerateResource.cache
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.exe
+C:\Users\ltpnt\source\repos\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.pdb
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.exe.config
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.exe
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\bin\Debug\MANGNGUNGHIA.pdb
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csprojAssemblyReference.cache
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.Form1.resources
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.Properties.Resources.resources
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csproj.GenerateResource.cache
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.csproj.CoreCompileInputs.cache
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.exe
+C:\Users\ltpnt\Desktop\TRI TUE NHAN TAO\FileCode\MANGNGUNGHIA\MANGNGUNGHIA\obj\Debug\MANGNGUNGHIA.pdb
